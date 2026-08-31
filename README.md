@@ -1,288 +1,261 @@
-# Awesome-Skills-Management
+# 🌟 Awesome Skills Management
 
-Top Skills Management Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Skills-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Skills-Management?style=flat-square&color=gold" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Skills-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Skills-Management?style=flat-square&color=blue" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Skills-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Skills-Management?style=flat-square&color=green" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Skills-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-Curated List of SaaS Products & Open-Source GitHub Projects
-Focused on Skills Intelligence, Competency Management, Talent Marketplaces, Skill Taxonomies, Workforce Planning, Career Pathing & AI-Powered Talent Mobility
-Last updated: September 2026
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Skills Management Banner" width="100%" />
+</p>
 
-This repository tracks notable SaaS/hosted platforms and open-source projects for Skills Management. These systems help organizations identify, map, validate, develop, and deploy workforce skills across employees, contractors, teams, and job roles. Typical capabilities include skills inventories, competency frameworks, skill taxonomies, AI-based skills inference, employee-to-role matching, internal talent marketplaces, workforce planning, career pathing, learning recommendations, skill-gap analysis, and strategic workforce intelligence.
+> 🎯 **A curated directory of top SaaS platforms and open-source GitHub projects for Skills Intelligence, Competency Management, Internal Talent Marketplaces, Skill Taxonomies, Workforce Planning, Career Pathing, and AI-Powered Talent Mobility.**
 
-Examples include Gloat, Fuel50, TechWolf, AG5, Neobrain, Retrain.ai, Workday Skills Cloud, Eightfold AI, Skillsoft CAISY, and 365Talents (the category leaders).
+*Last updated: September 2026*
 
-Open-source emphasis: This section is heavily expanded with open-source skills-management applications, skills APIs, competency ontologies, skills taxonomies, NLP-based skill extractors, HR platforms, learning-management systems, workforce analytics tools, and AI frameworks. Fully integrated open-source equivalents to commercial AI talent marketplaces remain relatively limited, but the open ecosystem provides strong building blocks for creating self-hosted skills intelligence and competency-management platforms.
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 📖 Overview & Ecosystem Intelligence
 
-Table of Contents
+Modern organizations are shifting from rigid job-title architectures toward agile, **skills-based organizations (SBO)**. Skills management systems help enterprises identify, map, validate, infer, develop, and deploy workforce capabilities across full-time employees, contractors, agile teams, and evolving roles. 
 
-SaaS/Hosted Platforms
+### 🔑 Key Functional Capabilities:
+- ⚡ **Skills Intelligence & Ontologies:** Semantic skill extraction from resumes, job requisitions, performance evaluations, and project outputs.
+- 🧩 **Competency Frameworks & Taxonomies:** Standardized hierarchical frameworks (e.g., ESCO, O*NET, Lightcast Open Skills) aligned to business units.
+- 🚀 **Internal Talent Marketplaces (ITM):** Dynamic AI matching of talent to open projects, gig assignments, mentoring opportunities, and promotions.
+- 📊 **Skills Gap & Workforce Analytics:** Quantitative heatmaps of organizational skill shortages and predictive workforce readiness modeling.
+- 🎯 **Personalized Career Pathing & L&D:** Dynamic learning recommendations connected to verifiable badges, credentials, and career aspirations.
 
-Open-Source GitHub Projects
+---
 
-Additional Strong Open-Source Options
+## 📑 Table of Contents
 
-How to Contribute
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architectural Blueprints for Custom Platforms](#️-architectural-blueprints-for-custom-platforms)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-Disclaimer
+---
 
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
-| Product / Platform | Description | Pricing | Free Tier / Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **Gloat** | AI-powered talent marketplace and skills intelligence platform supporting internal mobility, project matching, career development, workforce agility, and skills-based talent management. | Starting at ~$5–$10 / employee / month (PEPM; annual contract scaled by workforce size) | No free-forever plan; 0-day self-serve trial (custom enterprise interactive demo & sandbox on request) |
-| **Fuel50** | Talent marketplace and career-pathing platform that uses skills intelligence to connect employees with internal opportunities, mentors, learning, projects, and career pathways. | Starting at ~$4.54 / user / year (~$6–$10 / employee / month for full enterprise suites) | No free-forever plan; 0-day self-serve trial (guided proof-of-concept evaluation on request) |
-| **TechWolf** | AI-powered workforce intelligence platform focused on creating dynamic skills data from workforce information, job data, employee profiles, and organizational systems. | Starting at ~$40,000 / year base enterprise subscription (scaled by employee volume) | No free-forever plan; 0-day self-serve trial (guided skills data audit & POC sandbox upon consultation) |
-| **AG5** | Skills and competency-management platform focused on visual skills matrices, certification tracking, compliance, workforce capability, and skill-gap analysis. | Starting at ~$2–$4 / employee / month (billed annually; Core tier) | No free-forever plan; 14-day free trial (includes full access to skills matrix builder and onboarding templates) |
-| **Neobrain** | AI-powered workforce intelligence and talent-management platform supporting skills mapping, workforce planning, career mobility, and organizational transformation. | Starting at ~$5–$8 / employee / month (annual subscription per module) | No free-forever plan; 14-day guided proof-of-concept trial upon request |
-| **Retrain.ai** | AI-powered talent intelligence platform focused on skills inference, workforce transformation, job matching, reskilling, and future workforce planning. | Starting at ~$6–$9 / employee / month (annual enterprise contract) | No free-forever plan; 0-day self-serve trial (custom pilot environment & skills gap analysis on request) |
-| **Workday Skills Cloud** | Skills intelligence capability within the Workday ecosystem that helps organizations understand workforce skills and connect skills data with talent, learning, recruiting, and workforce planning workflows. | Starting at ~$3–$6 / employee / month add-on (requires base Workday HCM license starting at ~$40–$60 PEPM) | No free-forever plan; 30-day free trial limited strictly to Workday Adaptive Planning (core HCM/Skills Cloud available via guided customer sandbox) |
-| **Eightfold AI** | Talent intelligence platform using AI for skills-based recruiting, internal mobility, workforce planning, talent matching, career development, and workforce analytics. | Starting at ~$7–$10 / employee / month (annual contract based on employee headcount) | No free-forever plan; 0-day self-serve trial (guided live demo & pilot assessment on request) |
-| **Skillsoft CAISY** | AI-enabled learning and workforce development capability within the Skillsoft ecosystem, supporting personalized learning and skills development. | Starting at $19.99 / month or $199 / year for individuals; Enterprise Percipio starting at ~$3–$5 / user / month | No free-forever plan; 14-day to 30-day free trial on Skillsoft Percipio (full access to AI simulation modules including CAISY and selected learning paths) |
-| **365Talents** | Skills-based talent marketplace and workforce intelligence platform supporting skills mapping, internal mobility, workforce planning, learning, and employee development. | Starting at ~$4–$7 / employee / month (annual contract based on headcount) | No free-forever plan; 0-day self-serve trial (tailored organizational pilot provided on request) |
-| **Cornerstone Skills Graph** | Skills intelligence and learning ecosystem supporting competency development, personalized learning, workforce capabilities, and talent mobility. | Starting at ~$2–$4 / user / month add-on (requires Cornerstone LMS/Talent suite starting at ~$3.50–$8 / user / month) | No free-forever plan; 0-day self-serve trial (guided interactive sandbox provided on request) |
-| **Degreed** | Workforce learning and skills-development platform focused on skill profiles, learning experiences, capability development, and workforce transformation. | Free for individuals; Enterprise plans starting at ~$3–$6 / user / month (billed annually) | Free-forever plan for individuals (unlimited skill tracking, personal profile creation, and Degreed Open Library access); 0-day trial for Enterprise |
-| **SkyHive** | Workforce intelligence platform focused on skills-based workforce transformation, labor-market intelligence, reskilling, and strategic workforce planning. | Starting at ~$25,000 / year base or ~$5–$9 / employee / month | No free-forever plan; 0-day self-serve trial (custom enterprise discovery session & labor market benchmark report on request) |
-| **Lightcast** | Labor-market and workforce intelligence platform providing skills, occupations, job postings, and labor-market data used for workforce and talent analytics. | Starting at ~$2,500 / year (or £2,000 / year for single-seat integrations; enterprise analyst suites ~$15,000–$30,000 / year) | Free-forever open access to browse Open Skills Taxonomy online; 30-day trial / sample dataset access via Snowflake Marketplace & AWS Data Exchange |
-| **LinkedIn Talent Insights** | Workforce intelligence platform providing talent and labor-market insights that can support skills-based workforce planning and talent strategy. | Starting at ~$6,000–$9,500 / seat / year (annual enterprise license) | No free-forever plan; 0-day self-serve trial (guided walkthrough and customized market sample report via LinkedIn consultant) |
-| **SAP SuccessFactors** | Enterprise human-capital management platform supporting talent, learning, skills, workforce planning, succession, and employee development workflows. | Starting at ~$6–$10 / employee / month for individual modules (~$18–$38 PEPM for full talent suites) | No free-forever plan; 30-day test-drive / demo environment available for enterprise evaluations |
-| **Oracle Fusion Cloud HCM** | Enterprise HCM platform supporting skills, talent management, recruiting, learning, career development, workforce planning, and AI-assisted HR processes. | Starting at ~$15–$30 / employee / month (typically requires 1,000-user minimum & 3-year agreement) | No free-forever plan or trial for Fusion HCM suite (free tier limited to 30-day $300 credit on underlying Oracle Cloud Infrastructure / OCI) |
-| **SAP Talent Intelligence Hub** | SAP capability for connecting employee attributes, skills, competencies, experiences, learning, and talent data across HR processes. | Included with SAP SuccessFactors HCM enterprise subscriptions (starts at ~$18–$38 PEPM base licensing) | No separate free tier; accessible within SAP SuccessFactors 30-day enterprise evaluation tenant |
-| **Cornerstone OnDemand** | Enterprise talent and learning platform supporting workforce skills development, competency management, learning, performance, and talent mobility. | Learning module starting at ~$3.50–$8.00 / user / month; Full Suite ~$8.00–$25.00 / user / month | No free-forever plan; 0-day self-serve trial (custom guided demo sandbox provided upon request) |
-| **Phenom** | Talent experience and intelligence platform supporting recruiting, internal mobility, career development, skills matching, and workforce intelligence. | Starting at ~$7–$13 / employee / month (annual subscription based on selected modules & workforce scale) | No free-forever plan; 0-day self-serve trial (personalized live demo and ROI assessment upon consultation) |
-| **Beamery** | Talent lifecycle and workforce intelligence platform focused on skills-based talent acquisition, workforce planning, talent matching, and employee mobility. | Starting at ~$75–$150 / user / month for talent acquisition seats (enterprise workforce contracts starting at ~$50,000 / year) | No free-forever plan; 0-day self-serve trial (tailored talent architecture demo on request) |
+> 📊 **Estimated Market Size & Structure:** The global Skills Management and AI Talent Intelligence software market is estimated at **~$4.2 Billion** (2025/2026) and is forecasted to surpass **$10.5 Billion by 2030** (CAGR of **~16.5%**). The sector exhibits **moderate fragmentation with dual-tier consolidation**—legacy HCM market leaders (Oracle, SAP, Workday) anchor core enterprise HR systems of record, while specialized AI talent marketplaces and skills inference engines (Eightfold, Gloat, TechWolf) lead dynamic capability graphs without a winner-take-all monopoly, driving API-first ecosystem interoperability.
 
-Open-Source GitHub Projects
+*The table below is sorted by **Company Size (Valuation / Market Capitalization / Annual Revenue)** in descending order.*
 
-PuzzleSkills
+| 🏢 Product / Platform | 💼 Company Size (Valuation / Revenue) | 📝 Description | 💵 Pricing (Starting Tiers) | 🎁 Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **Oracle Fusion Cloud HCM** | ~$420 Billion Market Cap (Oracle Corp) / ~$53B Annual Revenue | Enterprise HCM platform supporting dynamic skills inventories, talent management, recruiting, learning, career pathing, and AI-assisted HR workflows. | Starting at ~$15–$30 / employee / month (typically requires 1,000-user minimum & 3-year agreement) | No free-forever plan or trial for Fusion HCM suite (free tier limited to 30-day $300 credit on underlying Oracle Cloud Infrastructure / OCI) |
+| **SAP SuccessFactors** | ~$240 Billion Market Cap (SAP SE) / ~$35B Annual Revenue | Enterprise human capital management platform supporting talent acquisition, learning, competency management, succession planning, and workforce agility. | Starting at ~$6–$10 / employee / month for individual modules (~$18–$38 PEPM for full talent suites) | No free-forever plan; 30-day test-drive / demo environment available for enterprise evaluations |
+| **SAP Talent Intelligence Hub** | ~$240 Billion Market Cap (SAP Ecosystem) / ~$35B Annual Revenue | Centralized SAP capability connecting employee skills, competencies, experiences, and talent data directly across all HR workflows. | Included with SAP SuccessFactors HCM enterprise subscriptions (starts at ~$18–$38 PEPM base licensing) | No separate free tier; accessible within SAP SuccessFactors 30-day enterprise evaluation tenant |
+| **LinkedIn Talent Insights** | ~$3.1 Trillion Parent Market Cap (Microsoft) / ~$15B+ LinkedIn Unit Revenue | Big-data workforce intelligence platform providing global labor-market insights, supply/demand trends, and peer benchmarking for skills planning. | Starting at ~$6,000–$9,500 / seat / year (annual enterprise license) | No free-forever plan; 0-day self-serve trial (guided walkthrough and customized market sample report via LinkedIn consultant) |
+| **Workday Skills Cloud** | ~$75 Billion Market Cap / ~$8.2B Annual Revenue | Universal skills foundation within the Workday HCM ecosystem leveraging machine learning to automatically infer, align, and clean workforce skills data. | Starting at ~$3–$6 / employee / month add-on (requires base Workday HCM license starting at ~$40–$60 PEPM) | No free-forever plan; 30-day free trial limited strictly to Workday Adaptive Planning (core HCM/Skills Cloud available via guided customer sandbox) |
+| **Cornerstone OnDemand** | $5.2 Billion Valuation (Acquired by Clearlake Capital) / ~$900M+ ARR | Comprehensive talent experience and learning platform powering workforce skills development, competency frameworks, performance, and talent mobility. | Learning module starting at ~$3.50–$8.00 / user / month; Full Suite ~$8.00–$25.00 / user / month | No free-forever plan; 0-day self-serve trial (custom guided demo sandbox provided upon request) |
+| **Cornerstone Skills Graph** | $5.2 Billion Valuation (Cornerstone Suite) / ~$900M+ ARR | AI-powered skills engine and ontology mapping billions of skills data points to roles, learning content, and career paths across the enterprise. | Starting at ~$2–$4 / user / month add-on (requires Cornerstone LMS/Talent suite starting at ~$3.50–$8 / user / month) | No free-forever plan; 0-day self-serve trial (guided interactive sandbox provided on request) |
+| **Eightfold AI** | $2.1 Billion Valuation (Series E Unicorn) / ~$100M+ ARR | Deep learning talent intelligence platform for skills-based hiring, employee retention, internal mobility, workforce planning, and bias reduction. | Starting at ~$7–$10 / employee / month (annual contract based on employee headcount) | No free-forever plan; 0-day self-serve trial (guided live demo & pilot assessment on request) |
+| **Phenom** | $1.4 Billion Valuation (Series D Unicorn) / ~$100M+ ARR | AI-powered talent experience platform delivering personalized skills matching for candidates, employees, recruiters, and managers. | Starting at ~$7–$13 / employee / month (annual subscription based on selected modules & workforce scale) | No free-forever plan; 0-day self-serve trial (personalized live demo and ROI assessment upon consultation) |
+| **Degreed** | $1.4 Billion Valuation (Series D Unicorn) / ~$100M+ ARR | Enterprise learning experience and capability development platform focused on real-time skills profiles, learning pathways, and workforce upskilling. | Free for individuals; Enterprise plans starting at ~$3–$6 / user / month (billed annually) | Free-forever plan for individuals (unlimited skill tracking, personal profile creation, and Degreed Open Library access); 0-day trial for Enterprise |
+| **Gloat** | ~$1.0 Billion Valuation (Series D Unicorn) / ~$50M+ ARR | Pioneering AI internal talent marketplace connecting employees to projects, gigs, mentorships, and full-time roles based on real-time skills data. | Starting at ~$5–$10 / employee / month (PEPM; annual contract scaled by workforce size) | No free-forever plan; 0-day self-serve trial (custom enterprise interactive demo & sandbox on request) |
+| **Beamery** | ~$1.0 Billion Valuation (Series D Unicorn) / ~$50M+ ARR | Talent lifecycle and workforce intelligence platform supporting autonomous skills clustering, career progression, and talent acquisition. | Starting at ~$75–$150 / user / month for talent acquisition seats (enterprise workforce contracts starting at ~$50,000 / year) | No free-forever plan; 0-day self-serve trial (tailored talent architecture demo on request) |
+| **Lightcast** | ~$700 Million Valuation (KKR-backed) / ~$100M+ ARR | Authoritative global labor-market analytics platform providing dynamic skills taxonomies, compensation benchmarking, and job requisition data. | Starting at ~$2,500 / year (or £2,000 / year for single-seat integrations; enterprise analyst suites ~$15,000–$30,000 / year) | Free-forever open access to browse Open Skills Taxonomy online; 30-day trial / sample dataset access via Snowflake Marketplace & AWS Data Exchange |
+| **Skillsoft CAISY** | ~$200 Million Market Cap (NYSE: SKIL) / ~$550M Annual Revenue | Generative AI simulation coach within Skillsoft Percipio designed to practice leadership, interpersonal skills, and technical workplace scenarios. | Starting at $19.99 / month or $199 / year for individuals; Enterprise Percipio starting at ~$3–$5 / user / month | No free-forever plan; 14-day to 30-day free trial on Skillsoft Percipio (full access to AI simulation modules including CAISY and selected learning paths) |
+| **TechWolf** | ~$180 Million Valuation (€42.7M Series B) / Backed by SAP & ServiceNow | AI infrastructure platform that connects enterprise data sources to automatically construct a continuous, real-time employee skills inventory. | Starting at ~$40,000 / year base enterprise subscription (scaled by employee volume) | No free-forever plan; 0-day self-serve trial (guided skills data audit & POC sandbox upon consultation) |
+| **Fuel50** | ~$150 Million Valuation ($40M+ Venture Funding) / ~$20M ARR | Next-generation career pathing and talent marketplace platform empowering employee-driven skill development and transparent career navigation. | Starting at ~$4.54 / user / year (~$6–$10 / employee / month for full enterprise suites) | No free-forever plan; 0-day self-serve trial (guided proof-of-concept evaluation on request) |
+| **Retrain.ai** | ~$100 Million Valuation ($34M+ Venture Funding) | Responsible AI talent intelligence platform optimizing workforce skills mapping, job architecture rationalization, and proactive reskilling. | Starting at ~$6–$9 / employee / month (annual enterprise contract) | No free-forever plan; 0-day self-serve trial (custom pilot environment & skills gap analysis on request) |
+| **SkyHive** | ~$90 Million Valuation ($40M+ Venture Funding; Acquired by Cornerstone) | Quantum labor analytics and skills intelligence engine generating real-time job-to-skill normalization and workforce automation impact models. | Starting at ~$25,000 / year base or ~$5–$9 / employee / month | No free-forever plan; 0-day self-serve trial (custom enterprise discovery session & labor market benchmark report on request) |
+| **365Talents** | ~$60 Million Valuation (€10M+ Venture Funding) | European AI-powered talent marketplace and internal mobility platform supporting multi-lingual skills extraction and career pathing. | Starting at ~$4–$7 / employee / month (annual contract based on headcount) | No free-forever plan; 0-day self-serve trial (tailored organizational pilot provided on request) |
+| **Neobrain** | ~$50 Million Valuation (€20M+ Venture Funding) | AI talent management solution focused on strategic workforce planning, skills anticipation, performance reviews, and mobility matching. | Starting at ~$5–$8 / employee / month (annual subscription per module) | No free-forever plan; 14-day guided proof-of-concept trial upon request |
+| **AG5** | ~$40 Million Valuation (€6M+ Series A Funding) | Specialized skills management software for frontline and operational teams featuring visual skills matrices, audit compliance, and gap tracking. | Starting at ~$2–$4 / employee / month (billed annually; Core tier) | No free-forever plan; 14-day free trial (includes full access to skills matrix builder and onboarding templates) |
 
-One of the most direct open-source projects for employee skills management. PuzzleSkills provides a web application for managing employee profiles, CVs, and skills and gives organizations an overview of workforce capabilities. 
-GitHub
+---
 
-Open Skills API
+## 💻 Open-Source GitHub Projects
 
-Open-source API and data platform designed to provide a standardized data store for skills, knowledge, abilities, tools, technologies, occupations, and relationships between skills and jobs. 
-GitHub
-+1
+Open-source tools provide the essential building blocks for engineering self-hosted skills taxonomies, resume parsers, competency ontologies, vector matching pipelines, and custom internal talent marketplaces.
 
-Nesta Skills Extractor
+*The list below is sorted by **GitHub Star Count** in descending order.*
 
-Open-source NLP library for extracting skill phrases from job advertisements and mapping them to skills taxonomies, including ESCO and Open Skills-style taxonomies. Useful for automated skills inference pipelines. 
-GitHub
+1. **[Hugging Face Transformers](https://github.com/huggingface/transformers)** <a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white" alt="GitHub stars" /></a>  
+   *State-of-the-art Machine Learning library for PyTorch and TensorFlow used to train and run custom NLP models for skill extraction, role categorization, and resume parsing.*
 
-ESCO Skill Extractor
+2. **[LangChain](https://github.com/langchain-ai/langchain)** <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="GitHub stars" /></a>  
+   *Framework for developing context-aware LLM agents that query employee skills databases, generate career coaching advice, and reason across talent graphs.*
 
-Open-source Python library that maps free-text job descriptions to occupations and skills from the European ESCO taxonomy using semantic similarity, embeddings, and optional LLM-based processing. 
-GitHub
+3. **[Grafana](https://github.com/grafana/grafana)** <a href="https://github.com/grafana/grafana/stargazers"><img src="https://img.shields.io/github/stars/grafana/grafana?style=social&color=white" alt="GitHub stars" /></a>  
+   *Open-source platform for monitoring, visualization, and workforce metrics/analytics dashboards.*
 
-Core-O Competence Ontology
+4. **[Apache Superset](https://github.com/apache/superset)** <a href="https://github.com/apache/superset/stargazers"><img src="https://img.shields.io/github/stars/apache/superset?style=social&color=white" alt="GitHub stars" /></a>  
+   *Enterprise-grade business intelligence tool ideal for building organizational competency matrices, skill-gap heatmaps, and executive workforce dashboards.*
 
-Open-source reference ontology for representing human competences, skills, knowledge, attitudes, occupational requirements, proficiency, context, and competence evolution over time. 
-GitHub
+5. **[Odoo Community Edition](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="GitHub stars" /></a>  
+   *Extensible open-source ERP with integrated HR, recruitment, appraisal, and employee skill modules customizable for organizational competency mapping.*
 
-MIND Tech Skills Ontology
+6. **[Metabase](https://github.com/metabase/metabase)** <a href="https://github.com/metabase/metabase/stargazers"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social&color=white" alt="GitHub stars" /></a>  
+   *Self-hosted business intelligence and data visualization suite for analyzing employee skill distributions, course completions, and internal hiring metrics.*
 
-Open-source ontology for technology skills and concepts that can support skills extraction, normalization, candidate matching, skill-gap analysis, and technology career-path modelling. 
-GitHub
+7. **[Apache Airflow](https://github.com/apache/airflow)** <a href="https://github.com/apache/airflow/stargazers"><img src="https://img.shields.io/github/stars/apache/airflow?style=social&color=white" alt="GitHub stars" /></a>  
+   *Programmatic workflow orchestration platform for scheduling automated ETL pipelines that synchronize HRIS records, job postings, and external labor taxonomies.*
 
-Nesta Skills Taxonomy
+8. **[Milvus](https://github.com/milvus-io/milvus)** <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="GitHub stars" /></a>  
+   *Cloud-native open-source vector database built for massive-scale semantic similarity search between employee skill vectors and job requisitions.*
 
-Open-source data-driven skills taxonomy designed to provide an updated and structured representation of workforce skills and relationships between occupations and capabilities. 
-GitHub
+9. **[ERPNext](https://github.com/frappe/erpnext)** <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="GitHub stars" /></a>  
+   *Comprehensive open-source ERP system featuring built-in human resource modules for employee competencies, certification tracking, training programs, and performance.*
 
-Data-Driven Skills Taxonomy
+10. **[Keycloak](https://github.com/keycloak/keycloak)** <a href="https://github.com/keycloak/keycloak/stargazers"><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="GitHub stars" /></a>  
+    *Open-source Identity and Access Management providing SSO, OAuth2, and granular role-based permissions to secure sensitive employee skills and appraisal data.*
 
-Open-source project demonstrating how occupational data and ESCO skill relationships can be used to build data-driven skills taxonomies and analyze skill co-occurrence. 
-GitHub
+11. **[Qdrant](https://github.com/qdrant/qdrant)** <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="GitHub stars" /></a>  
+    *High-performance vector search engine written in Rust for semantic skill matching, candidate recommendation engines, and profile embeddings.*
 
-OpenHRMS
+12. **[spaCy](https://github.com/explosion/spaCy)** <a href="https://github.com/explosion/spaCy/stargazers"><img src="https://img.shields.io/github/stars/explosion/spaCy?style=social&color=white" alt="GitHub stars" /></a>  
+    *Industrial-strength NLP library in Python for building named entity recognition (NER) pipelines that extract skills, credentials, and job titles from CVs.*
 
-Open-source human-resource management system that provides employee, recruitment, appraisal, attendance, leave, payroll, and HR workflow capabilities that can be extended for competency and skills management.
+13. **[Chroma](https://github.com/chroma-core/chroma)** <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="GitHub stars" /></a>  
+    *AI-native embedding database engineered for developer simplicity when indexing resumes, job postings, and competency vectors for semantic talent search.*
 
-Frappe HR
+14. **[MLflow](https://github.com/mlflow/mlflow)** <a href="https://github.com/mlflow/mlflow/stargazers"><img src="https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white" alt="GitHub stars" /></a>  
+    *Open-source machine learning lifecycle platform for tracking, evaluating, and deploying skills classification and talent recommendation algorithms.*
 
-Open-source HR and payroll platform built on the Frappe framework. Provides employee management, performance, recruitment, training, and organizational workflows that can serve as a foundation for custom skills-management functionality.
+15. **[Haystack](https://github.com/deepset-ai/haystack)** <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="GitHub stars" /></a>  
+    *End-to-end framework for building production-ready search and question-answering systems over corporate skill inventories and training documents.*
 
-OrangeHRM Open Source
+16. **[Prefect](https://github.com/PrefectHQ/prefect)** <a href="https://github.com/PrefectHQ/prefect/stargazers"><img src="https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white" alt="GitHub stars" /></a>  
+    *Modern data workflow orchestration platform for managing reactive pipelines that extract skills from updated CVs and refresh competency ontologies.*
 
-Open-source HR management platform supporting employee information, recruitment, performance, leave, and organizational processes. Can be extended with skills and competency-management workflows.
+17. **[Sentence Transformers](https://github.com/UKPLab/sentence-transformers)** <a href="https://github.com/UKPLab/sentence-transformers/stargazers"><img src="https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social&color=white" alt="GitHub stars" /></a>  
+    *Python framework for state-of-the-art sentence, text, and image embeddings—essential for semantic distance matching between employee skills and job requisitions.*
 
-Odoo Community Edition
+18. **[Neo4j Community Edition](https://github.com/neo4j/neo4j)** <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="GitHub stars" /></a>  
+    *Graph database technology ideal for representing multi-dimensional knowledge graphs connecting people, competencies, certifications, roles, and mentors.*
 
-Open-source business application platform with employee, recruitment, appraisal, learning, project, and workforce modules that can be customized for skills matrices and competency management.
+19. **[Flair](https://github.com/flairNLP/flair)** <a href="https://github.com/flairNLP/flair/stargazers"><img src="https://img.shields.io/github/stars/flairNLP/flair?style=social&color=white" alt="GitHub stars" /></a>  
+    *State-of-the-art NLP library for contextual string embeddings and Named Entity Recognition used in parsing complex, multi-word skill phrases.*
 
-Odoo Community Association
+20. **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="GitHub stars" /></a>  
+    *Scalable search and analytics suite offering hybrid lexical and k-NN vector search across employee profiles, project portfolios, and skills catalogs.*
 
-Large open-source ecosystem providing community-maintained modules for HR, employee management, recruitment, education, analytics, and workflow automation.
+21. **[Frappe HR](https://github.com/frappe/hrms)** <a href="https://github.com/frappe/hrms/stargazers"><img src="https://img.shields.io/github/stars/frappe/hrms?style=social&color=white" alt="GitHub stars" /></a>  
+    *Modern open-source HR and payroll platform with employee profiles, training management, appraisals, and customizable skill matrices.*
 
-ERPNext
+22. **[Open edX Platform](https://github.com/openedx/edx-platform)** <a href="https://github.com/openedx/edx-platform/stargazers"><img src="https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white" alt="GitHub stars" /></a>  
+    *Enterprise-grade learning platform supporting competency-based course delivery, student progress tracking, and verifiable learning assessments.*
 
-Comprehensive open-source ERP platform with HR and organizational modules that can be customized for employee skills, competencies, certifications, training records, and workforce planning.
+23. **[BERTopic](https://github.com/MaartenGr/BERTopic)** <a href="https://github.com/MaartenGr/BERTopic/stargazers"><img src="https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social&color=white" alt="GitHub stars" /></a>  
+    *Transformer-based topic modeling technique to discover and cluster emerging technologies and trending skills from unstructured job advertisements.*
 
-Moodle
+24. **[Moodle](https://github.com/moodle/moodle)** <a href="https://github.com/moodle/moodle/stargazers"><img src="https://img.shields.io/github/stars/moodle/moodle?style=social&color=white" alt="GitHub stars" /></a>  
+    *Leading open-source learning management system with full support for competency frameworks, learning plans, evidence validation, and skill badges.*
 
-Major open-source learning-management system supporting competency frameworks, learning pathways, courses, assessments, badges, certifications, and skill-development workflows.
+25. **[Canvas LMS](https://github.com/instructure/canvas-lms)** <a href="https://github.com/instructure/canvas-lms/stargazers"><img src="https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white" alt="GitHub stars" /></a>  
+    *Popular LMS supporting learning outcomes, rubric-based grading, mastery calculations, and modular credentials.*
 
-Open edX
+26. **[Apache AGE](https://github.com/apache/age)** <a href="https://github.com/apache/age/stargazers"><img src="https://img.shields.io/github/stars/apache/age?style=social&color=white" alt="GitHub stars" /></a>  
+    *PostgreSQL graph extension allowing organizations to query complex skills networks using openCypher directly alongside relational employee tables.*
 
-Open-source learning platform suitable for enterprise and institutional learning, skills development, competency assessment, personalized learning, and learning analytics.
+27. **[RapidFuzz](https://github.com/maxbachmann/RapidFuzz)** <a href="https://github.com/maxbachmann/RapidFuzz/stargazers"><img src="https://img.shields.io/github/stars/maxbachmann/RapidFuzz?style=social&color=white" alt="GitHub stars" /></a>  
+    *Ultra-fast fuzzy string matching library in C++ and Python for deduplicating and normalizing variations in skill names and certifications.*
 
-Canvas LMS
+28. **[OrangeHRM Open Source](https://github.com/orangehrm/orangehrm)** <a href="https://github.com/orangehrm/orangehrm/stargazers"><img src="https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white" alt="GitHub stars" /></a>  
+    *Widely adopted open-source human resource management application supporting employee records, certifications, and talent evaluation workflows.*
 
-Open-source learning-management platform supporting courses, outcomes, assessments, credentials, and competency-related educational workflows.
+29. **[PyResparser](https://github.com/OmkarPathak/pyresparser)** <a href="https://github.com/OmkarPathak/pyresparser/stargazers"><img src="https://img.shields.io/github/stars/OmkarPathak/pyresparser?style=social&color=white" alt="GitHub stars" /></a>  
+    *Python library for parsing resumes and CVs to automatically extract skills, education history, and experience tokens.*
 
-Mahara
+30. **[OCA HR Modules](https://github.com/OCA/hr)** <a href="https://github.com/OCA/hr/stargazers"><img src="https://img.shields.io/github/stars/OCA/hr?style=social&color=white" alt="GitHub stars" /></a>  
+    *Community-maintained Odoo extensions providing advanced employee appraisals, training management, and skills matrix views.*
 
-Open-source digital portfolio and personal learning environment that can support employee or learner portfolios, evidence of competencies, skills profiles, and career development.
+31. **[Skills-ML](https://github.com/workforce-data-initiative/skills-ml)** <a href="https://github.com/workforce-data-initiative/skills-ml/stargazers"><img src="https://img.shields.io/github/stars/workforce-data-initiative/skills-ml?style=social&color=white" alt="GitHub stars" /></a>  
+    *Open-source machine learning library designed for analyzing skills, competencies, and occupations in labor-market datasets.*
 
-OpenBadges
+32. **[OpenHRMS](https://github.com/CybroOdoo/OpenHRMS)** <a href="https://github.com/CybroOdoo/OpenHRMS/stargazers"><img src="https://img.shields.io/github/stars/CybroOdoo/OpenHRMS?style=social&color=white" alt="GitHub stars" /></a>  
+    *Open-source human resource management suite providing modular employee skill tracking, onboarding, and performance evaluations.*
 
-Open-source ecosystem and standards around verifiable digital badges and credentials that can be used to represent validated skills, competencies, achievements, and certifications.
+33. **[Nesta Skills Extractor Library](https://github.com/nestauk/ojd_daps_skills)** <a href="https://github.com/nestauk/ojd_daps_skills/stargazers"><img src="https://img.shields.io/github/stars/nestauk/ojd_daps_skills?style=social&color=white" alt="GitHub stars" /></a>  
+    *NLP library developed by Nesta to extract skill entities from free-text job adverts and map them against the European ESCO taxonomy.*
 
-BadgeOS
+34. **[Mahara ePortfolio](https://github.com/MaharaProject/mahara)** <a href="https://github.com/MaharaProject/mahara/stargazers"><img src="https://img.shields.io/github/stars/MaharaProject/mahara?style=social&color=white" alt="GitHub stars" /></a>  
+    *Open-source digital portfolio and competency framework system for employees and learners to collect and showcase validated evidence of mastery.*
 
-Open-source WordPress-based credentialing and gamification framework that can support digital recognition of skills, learning achievements, and competencies.
+35. **[Nesta Skills Taxonomy v2](https://github.com/nestauk/skills-taxonomy-v2)** <a href="https://github.com/nestauk/skills-taxonomy-v2/stargazers"><img src="https://img.shields.io/github/stars/nestauk/skills-taxonomy-v2?style=social&color=white" alt="GitHub stars" /></a>  
+    *Data-driven skills taxonomy codebase and analysis framework built from millions of online job adverts.*
 
-Skills Taxonomy Community Projects
+36. **[Open Skills API](https://github.com/workforce-data-initiative/open-skills-api)** <a href="https://github.com/workforce-data-initiative/open-skills-api/stargazers"><img src="https://img.shields.io/github/stars/workforce-data-initiative/open-skills-api?style=social&color=white" alt="GitHub stars" /></a>  
+    *Standardized REST API and data store for querying relationships between skills, tools, knowledge areas, and occupations.*
 
-Community collection of public projects covering skill classification, ontology development, skill extraction, competency modelling, workforce intelligence, and occupation-to-skill mapping.
+37. **[ESCO Skill Extractor](https://github.com/k-paxian/esco-skill-extractor)** <a href="https://github.com/k-paxian/esco-skill-extractor/stargazers"><img src="https://img.shields.io/github/stars/k-paxian/esco-skill-extractor?style=social&color=white" alt="GitHub stars" /></a>  
+    *Python library that maps unstructured job descriptions and profiles to European ESCO skills using semantic similarity.*
 
-Knowledge Graph Embedding Libraries
+38. **[PuzzleSkills](https://github.com/puzzle/skills)** <a href="https://github.com/puzzle/skills/stargazers"><img src="https://img.shields.io/github/stars/puzzle/skills?style=social&color=white" alt="GitHub stars" /></a>  
+    *Open-source web application for tracking employee skills, CV generation, and team capability overviews.*
 
-Open-source knowledge-graph projects that can be used to model relationships between employees, skills, roles, learning content, projects, certifications, and career pathways.
+39. **[Core-O Competence Ontology](https://github.com/jpalmeida/competence-ontology)** <a href="https://github.com/jpalmeida/competence-ontology/stargazers"><img src="https://img.shields.io/github/stars/jpalmeida/competence-ontology?style=social&color=white" alt="GitHub stars" /></a>  
+    *Reference ontology for modeling human competences, occupational requirements, proficiency grades, and skills evolution over time.*
 
-spaCy
+---
 
-Major open-source NLP library useful for extracting skills and competencies from CVs, employee profiles, job descriptions, performance reviews, and learning records.
+## 🛠️ Architectural Blueprints for Custom Platforms
 
-Sentence Transformers
+Organizations building sovereign, private skills management and talent marketplace platforms can combine open-source modules into a full-stack architecture:
 
-Open-source embedding framework suitable for semantic matching between employee skills, job requirements, learning content, projects, and career opportunities.
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        PRESENTATION & UI LAYER                         │
+│   • PuzzleSkills / Custom React App   • Metabase / Apache Superset     │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+┌───────────────────────────────────▼────────────────────────────────────┐
+│                       AI & SEMANTIC MATCHING LAYER                     │
+│   • spaCy / Flair (NER Extraction)    • Sentence Transformers (Embed)  │
+│   • LangChain (Reasoning Agents)      • Qdrant / Milvus / Chroma (DB)  │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+┌───────────────────────────────────▼────────────────────────────────────┐
+│                    KNOWLEDGE GRAPH & ONTOLOGY LAYER                    │
+│   • Neo4j / Apache AGE (Graph)        • ESCO / Open Skills Taxonomies  │
+│   • PostgreSQL / pgvector             • Core-O Competence Model        │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+┌───────────────────────────────────▼────────────────────────────────────┐
+│                     CORE HR & DATA PIPELINE LAYER                      │
+│   • Frappe HR / ERPNext / Odoo        • Apache Airflow / Prefect (ETL) │
+│   • Keycloak (SSO / RBAC Security)    • Moodle / Open edX (LMS / L&D)  │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-Haystack
+---
 
-Open-source NLP and AI framework useful for building skills extraction, semantic search, talent matching, and workforce knowledge applications.
+## 🤝 How to Contribute
 
-Hugging Face Transformers
+Contributions are warmly welcomed! To suggest a new SaaS platform, open-source repository, ontology framework, or research tool:
 
-Major open-source machine-learning library that can support custom models for skill extraction, job matching, classification, semantic search, and workforce intelligence.
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a new branch**: `git checkout -b feature/add-skill-platform`
+3. 📝 **Add your entry** in the corresponding section following the existing format:
+   - For SaaS: Include name, company size/valuation, description, specific starting pricing tier, and free trial limit.
+   - For Open-Source: Include name, official repository link with stargazers badge `<a href="https://github.com/owner/repo/stargazers"><img src="https://img.shields.io/github/stars/owner/repo?style=social&color=white" alt="GitHub stars" /></a>`, and a factual 1–2 sentence description.
+4. 🚀 **Submit a Pull Request** with a concise description of why the tool is valuable.
+5. ⭐ **Star this repository** if you find it helpful for your workforce and skills management projects!
 
-BERTopic
+For broader Awesome collections, visit [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 
-Open-source topic-modelling framework useful for discovering emerging skills and capability clusters from job descriptions, CVs, learning content, and workforce documents.
+---
 
-RapidFuzz
+## 📈 Star History
 
-Open-source fuzzy-matching library useful for normalizing inconsistent skill names, certifications, technologies, and competency labels.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Skills-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Skills-Management&type=date&legend=top-left)
 
-OpenSearch
+---
 
-Open-source search and analytics platform suitable for indexing employee profiles, skills, jobs, learning content, projects, and organizational knowledge.
+## ⚖️ Disclaimer
 
-Apache Superset
+*This repository is a community-curated directory intended solely for educational, architectural, and informational purposes. Mention of specific vendors, trademarks, or open-source projects does not constitute an endorsement.*
 
-Open-source business-intelligence platform for skills dashboards, workforce capability analysis, competency heatmaps, learning metrics, and organizational skill-gap reporting.
-
-Metabase
-
-Open-source analytics platform suitable for self-hosted workforce dashboards covering skills distribution, certifications, training completion, competency gaps, and talent mobility.
-
-Grafana
-
-Open-source visualization platform that can monitor workforce and skills data pipelines, competency metrics, learning activity, and organizational capability indicators.
-
-Apache Airflow
-
-Open-source workflow orchestration platform useful for regularly importing HR data, job descriptions, learning records, skills taxonomies, and labor-market data into a skills intelligence platform.
-
-Prefect
-
-Open-source workflow orchestration platform suitable for automating skills extraction, profile enrichment, taxonomy updates, workforce analytics, and machine-learning pipelines.
-
-MLflow
-
-Open-source machine-learning lifecycle platform useful for managing and evaluating models used for skill extraction, role matching, recommendations, and workforce intelligence.
-
-PostgreSQL
-
-Open-source relational database suitable for storing employee profiles, skills, competencies, occupations, certifications, assessments, and workforce relationships.
-
-Neo4j Community Edition
-
-Open-source graph-database technology suitable for modelling relationships between employees, skills, roles, projects, learning resources, mentors, and career pathways.
-
-Apache AGE
-
-Open-source graph database extension for PostgreSQL that can support skills graphs and relationships between workforce entities while retaining a PostgreSQL-based architecture.
-
-Keycloak
-
-Open-source identity and access-management platform suitable for securing employee skills platforms with single sign-on, role-based permissions, and organizational access controls.
-
-Additional Strong Open-Source Options
-
-Direct skills-management foundations: PuzzleSkills and the Open Skills API are among the most relevant open-source starting points for managing skills data, employee profiles, and relationships between skills and occupations. 
-GitHub
-+1
-
-Skills extraction and AI matching: Nesta Skills Extractor, ESCO Skill Extractor, spaCy, Sentence Transformers, Hugging Face Transformers, and Haystack can be combined to infer skills from CVs, job descriptions, learning records, and employee profiles. 
-GitHub
-+1
-
-Skills ontologies and taxonomies: Core-O, MIND Tech Skills Ontology, Nesta Skills Taxonomy, ESCO datasets, and data-driven taxonomy projects provide strong foundations for standardized skills and competency models. 
-GitHub
-+2
-GitHub
-+2
-
-HR foundations: Frappe HR, OrangeHRM, OpenHRMS, ERPNext, Odoo Community, and Odoo Community Association modules can provide employee records, organizational structures, performance workflows, recruitment, and training data.
-
-Learning and competency systems: Moodle, Open edX, Canvas LMS, Mahara, OpenBadges, and credentialing projects can connect workforce skills with courses, assessments, evidence, certifications, and learning pathways.
-
-Skills graphs: Neo4j Community Edition, Apache AGE, PostgreSQL, RDF/OWL ontologies, and knowledge-graph frameworks can model complex relationships between skills, people, roles, projects, learning resources, and occupations.
-
-Semantic talent matching: Sentence Transformers, vector databases, OpenSearch, pgvector, and open-source embedding models can be used to match employees to jobs, projects, mentors, internal opportunities, and learning content.
-
-Skills-gap analytics: PostgreSQL, Python, R, Apache Superset, Metabase, and Grafana can provide competency matrices, organizational skill-gap analysis, workforce heatmaps, and strategic workforce dashboards.
-
-AI workforce intelligence: Hugging Face models, Ollama, vLLM, LangChain, Haystack, and local embedding models can support self-hosted skill inference and recommendations without requiring all workforce data to leave an organization's infrastructure.
-
-Workflow and integration: Apache Airflow, Prefect, Node-RED, Apache Kafka, OpenFn, and REST/FHIR-style APIs can connect HRIS systems, LMS platforms, recruiting tools, project-management systems, and skills databases.
-
-Credential and verification systems: Open Badges standards, verifiable credential technologies, digital portfolio platforms, and blockchain-compatible credential projects can provide evidence-based skill verification.
-
-Many community skills taxonomy, competency management, talent matching, resume parsing, job matching, career recommendation, workforce analytics, and HR intelligence projects are available across GitHub and can provide reusable components for specialized skills-management deployments.
-
-Frameworks for building custom systems: Combine Frappe HR, OrangeHRM, or ERPNext for employee and organizational data, use PuzzleSkills or a custom application for skills profiles, build the skills taxonomy around ESCO, Core-O, or other open ontologies, and use Sentence Transformers + spaCy + Hugging Face models for automated skill extraction and semantic matching. Store relationships in PostgreSQL + Apache AGE or Neo4j, integrate learning through Moodle or Open edX, orchestrate data pipelines with Apache Airflow or Prefect, and build workforce dashboards with Metabase or Apache Superset.
-
-This modular architecture can provide a highly customizable and self-hosted alternative to commercial skills intelligence platforms, although proprietary platforms may offer more mature pre-trained workforce datasets, commercial labor-market intelligence, and turnkey enterprise integrations.
-
-How to Contribute
-
-Fork the repo.
-
-Add/edit entries in README.md (follow existing format).
-
-Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-Disclaimer
-
-This is a community-curated list — not exhaustive and not an endorsement.
-
-Skills inference and AI-based talent matching may contain bias, incorrect inferences, incomplete data, or inappropriate recommendations and should be subject to appropriate human review.
-
-Workforce and employee data may contain sensitive personal information and should be processed in accordance with applicable privacy, employment, labor, and data-protection laws.
-
-Skills taxonomies and competency frameworks should be adapted carefully to organizational and regional contexts rather than treated as universally applicable.
-
-Self-hosted open-source deployments require appropriate identity management, access controls, data governance, audit logging, model evaluation, backups, and security practices.
-
-Open-source projects in this ecosystem often provide individual components rather than complete turnkey equivalents to enterprise skills intelligence and internal talent marketplace platforms.
-
-Made for HR leaders, talent-management teams, workforce strategists, learning professionals, people analytics teams, developers, and organizations building skills-based workplaces.
-
-Let's make workforce skills more open, transparent, interoperable, evidence-based, and accessible.
+- **Human-in-the-Loop:** AI-based skills inference, resume parsing, and internal mobility recommendations can exhibit systemic bias or inferential errors; automated decisions impacting employee hiring, compensation, or termination should always be subject to appropriate human oversight.
+- **Data Privacy & Governance:** Employee skills and workforce talent data often involve sensitive personally identifiable information (PII). Organizations should ensure compliance with relevant employment regulations, GDPR, and enterprise security governance.
