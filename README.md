@@ -26,91 +26,31 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Gloat
-
-AI-powered talent marketplace and skills intelligence platform supporting internal mobility, project matching, career development, workforce agility, and skills-based talent management.
-
-Fuel50
-
-Talent marketplace and career-pathing platform that uses skills intelligence to connect employees with internal opportunities, mentors, learning, projects, and career pathways.
-
-TechWolf
-
-AI-powered workforce intelligence platform focused on creating dynamic skills data from workforce information, job data, employee profiles, and organizational systems.
-
-AG5
-
-Skills and competency-management platform focused on visual skills matrices, certification tracking, compliance, workforce capability, and skill-gap analysis.
-
-Neobrain
-
-AI-powered workforce intelligence and talent-management platform supporting skills mapping, workforce planning, career mobility, and organizational transformation.
-
-Retrain.ai
-
-AI-powered talent intelligence platform focused on skills inference, workforce transformation, job matching, reskilling, and future workforce planning.
-
-Workday Skills Cloud
-
-Skills intelligence capability within the Workday ecosystem that helps organizations understand workforce skills and connect skills data with talent, learning, recruiting, and workforce planning workflows.
-
-Eightfold AI
-
-Talent intelligence platform using AI for skills-based recruiting, internal mobility, workforce planning, talent matching, career development, and workforce analytics.
-
-Skillsoft CAISY
-
-AI-enabled learning and workforce development capability within the Skillsoft ecosystem, supporting personalized learning and skills development.
-
-365Talents
-
-Skills-based talent marketplace and workforce intelligence platform supporting skills mapping, internal mobility, workforce planning, learning, and employee development.
-
-Cornerstone Skills Graph
-
-Skills intelligence and learning ecosystem supporting competency development, personalized learning, workforce capabilities, and talent mobility.
-
-Degreed
-
-Workforce learning and skills-development platform focused on skill profiles, learning experiences, capability development, and workforce transformation.
-
-SkyHive
-
-Workforce intelligence platform focused on skills-based workforce transformation, labor-market intelligence, reskilling, and strategic workforce planning.
-
-Lightcast
-
-Labor-market and workforce intelligence platform providing skills, occupations, job postings, and labor-market data used for workforce and talent analytics.
-
-LinkedIn Talent Insights
-
-Workforce intelligence platform providing talent and labor-market insights that can support skills-based workforce planning and talent strategy.
-
-SAP SuccessFactors
-
-Enterprise human-capital management platform supporting talent, learning, skills, workforce planning, succession, and employee development workflows.
-
-Oracle Fusion Cloud HCM
-
-Enterprise HCM platform supporting skills, talent management, recruiting, learning, career development, workforce planning, and AI-assisted HR processes.
-
-SAP Talent Intelligence Hub
-
-SAP capability for connecting employee attributes, skills, competencies, experiences, learning, and talent data across HR processes.
-
-Cornerstone OnDemand
-
-Enterprise talent and learning platform supporting workforce skills development, competency management, learning, performance, and talent mobility.
-
-Phenom
-
-Talent experience and intelligence platform supporting recruiting, internal mobility, career development, skills matching, and workforce intelligence.
-
-Beamery
-
-Talent lifecycle and workforce intelligence platform focused on skills-based talent acquisition, workforce planning, talent matching, and employee mobility.
+| Product / Platform | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Gloat** | AI-powered talent marketplace and skills intelligence platform supporting internal mobility, project matching, career development, workforce agility, and skills-based talent management. | Starting at ~$5–$10 / employee / month (PEPM; annual contract scaled by workforce size) | No free-forever plan; 0-day self-serve trial (custom enterprise interactive demo & sandbox on request) |
+| **Fuel50** | Talent marketplace and career-pathing platform that uses skills intelligence to connect employees with internal opportunities, mentors, learning, projects, and career pathways. | Starting at ~$4.54 / user / year (~$6–$10 / employee / month for full enterprise suites) | No free-forever plan; 0-day self-serve trial (guided proof-of-concept evaluation on request) |
+| **TechWolf** | AI-powered workforce intelligence platform focused on creating dynamic skills data from workforce information, job data, employee profiles, and organizational systems. | Starting at ~$40,000 / year base enterprise subscription (scaled by employee volume) | No free-forever plan; 0-day self-serve trial (guided skills data audit & POC sandbox upon consultation) |
+| **AG5** | Skills and competency-management platform focused on visual skills matrices, certification tracking, compliance, workforce capability, and skill-gap analysis. | Starting at ~$2–$4 / employee / month (billed annually; Core tier) | No free-forever plan; 14-day free trial (includes full access to skills matrix builder and onboarding templates) |
+| **Neobrain** | AI-powered workforce intelligence and talent-management platform supporting skills mapping, workforce planning, career mobility, and organizational transformation. | Starting at ~$5–$8 / employee / month (annual subscription per module) | No free-forever plan; 14-day guided proof-of-concept trial upon request |
+| **Retrain.ai** | AI-powered talent intelligence platform focused on skills inference, workforce transformation, job matching, reskilling, and future workforce planning. | Starting at ~$6–$9 / employee / month (annual enterprise contract) | No free-forever plan; 0-day self-serve trial (custom pilot environment & skills gap analysis on request) |
+| **Workday Skills Cloud** | Skills intelligence capability within the Workday ecosystem that helps organizations understand workforce skills and connect skills data with talent, learning, recruiting, and workforce planning workflows. | Starting at ~$3–$6 / employee / month add-on (requires base Workday HCM license starting at ~$40–$60 PEPM) | No free-forever plan; 30-day free trial limited strictly to Workday Adaptive Planning (core HCM/Skills Cloud available via guided customer sandbox) |
+| **Eightfold AI** | Talent intelligence platform using AI for skills-based recruiting, internal mobility, workforce planning, talent matching, career development, and workforce analytics. | Starting at ~$7–$10 / employee / month (annual contract based on employee headcount) | No free-forever plan; 0-day self-serve trial (guided live demo & pilot assessment on request) |
+| **Skillsoft CAISY** | AI-enabled learning and workforce development capability within the Skillsoft ecosystem, supporting personalized learning and skills development. | Starting at $19.99 / month or $199 / year for individuals; Enterprise Percipio starting at ~$3–$5 / user / month | No free-forever plan; 14-day to 30-day free trial on Skillsoft Percipio (full access to AI simulation modules including CAISY and selected learning paths) |
+| **365Talents** | Skills-based talent marketplace and workforce intelligence platform supporting skills mapping, internal mobility, workforce planning, learning, and employee development. | Starting at ~$4–$7 / employee / month (annual contract based on headcount) | No free-forever plan; 0-day self-serve trial (tailored organizational pilot provided on request) |
+| **Cornerstone Skills Graph** | Skills intelligence and learning ecosystem supporting competency development, personalized learning, workforce capabilities, and talent mobility. | Starting at ~$2–$4 / user / month add-on (requires Cornerstone LMS/Talent suite starting at ~$3.50–$8 / user / month) | No free-forever plan; 0-day self-serve trial (guided interactive sandbox provided on request) |
+| **Degreed** | Workforce learning and skills-development platform focused on skill profiles, learning experiences, capability development, and workforce transformation. | Free for individuals; Enterprise plans starting at ~$3–$6 / user / month (billed annually) | Free-forever plan for individuals (unlimited skill tracking, personal profile creation, and Degreed Open Library access); 0-day trial for Enterprise |
+| **SkyHive** | Workforce intelligence platform focused on skills-based workforce transformation, labor-market intelligence, reskilling, and strategic workforce planning. | Starting at ~$25,000 / year base or ~$5–$9 / employee / month | No free-forever plan; 0-day self-serve trial (custom enterprise discovery session & labor market benchmark report on request) |
+| **Lightcast** | Labor-market and workforce intelligence platform providing skills, occupations, job postings, and labor-market data used for workforce and talent analytics. | Starting at ~$2,500 / year (or £2,000 / year for single-seat integrations; enterprise analyst suites ~$15,000–$30,000 / year) | Free-forever open access to browse Open Skills Taxonomy online; 30-day trial / sample dataset access via Snowflake Marketplace & AWS Data Exchange |
+| **LinkedIn Talent Insights** | Workforce intelligence platform providing talent and labor-market insights that can support skills-based workforce planning and talent strategy. | Starting at ~$6,000–$9,500 / seat / year (annual enterprise license) | No free-forever plan; 0-day self-serve trial (guided walkthrough and customized market sample report via LinkedIn consultant) |
+| **SAP SuccessFactors** | Enterprise human-capital management platform supporting talent, learning, skills, workforce planning, succession, and employee development workflows. | Starting at ~$6–$10 / employee / month for individual modules (~$18–$38 PEPM for full talent suites) | No free-forever plan; 30-day test-drive / demo environment available for enterprise evaluations |
+| **Oracle Fusion Cloud HCM** | Enterprise HCM platform supporting skills, talent management, recruiting, learning, career development, workforce planning, and AI-assisted HR processes. | Starting at ~$15–$30 / employee / month (typically requires 1,000-user minimum & 3-year agreement) | No free-forever plan or trial for Fusion HCM suite (free tier limited to 30-day $300 credit on underlying Oracle Cloud Infrastructure / OCI) |
+| **SAP Talent Intelligence Hub** | SAP capability for connecting employee attributes, skills, competencies, experiences, learning, and talent data across HR processes. | Included with SAP SuccessFactors HCM enterprise subscriptions (starts at ~$18–$38 PEPM base licensing) | No separate free tier; accessible within SAP SuccessFactors 30-day enterprise evaluation tenant |
+| **Cornerstone OnDemand** | Enterprise talent and learning platform supporting workforce skills development, competency management, learning, performance, and talent mobility. | Learning module starting at ~$3.50–$8.00 / user / month; Full Suite ~$8.00–$25.00 / user / month | No free-forever plan; 0-day self-serve trial (custom guided demo sandbox provided upon request) |
+| **Phenom** | Talent experience and intelligence platform supporting recruiting, internal mobility, career development, skills matching, and workforce intelligence. | Starting at ~$7–$13 / employee / month (annual subscription based on selected modules & workforce scale) | No free-forever plan; 0-day self-serve trial (personalized live demo and ROI assessment upon consultation) |
+| **Beamery** | Talent lifecycle and workforce intelligence platform focused on skills-based talent acquisition, workforce planning, talent matching, and employee mobility. | Starting at ~$75–$150 / user / month for talent acquisition seats (enterprise workforce contracts starting at ~$50,000 / year) | No free-forever plan; 0-day self-serve trial (tailored talent architecture demo on request) |
 
 Open-Source GitHub Projects
 
