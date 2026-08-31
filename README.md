@@ -81,121 +81,121 @@ Open-source tools provide the essential building blocks for engineering self-hos
 
 *The list below is sorted by **GitHub Star Count** in descending order.*
 
-1. **[Hugging Face Transformers](https://github.com/huggingface/transformers)** <a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white" alt="GitHub stars" /></a>  
+1. **[Hugging Face Transformers](https://github.com/huggingface/transformers)** <a href="https://github.com/huggingface/transformers/stargazers"><img src="https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white" alt="GitHub_Stars" /></a>  
    *State-of-the-art Machine Learning library for PyTorch and TensorFlow used to train and run custom NLP models for skill extraction, role categorization, and resume parsing.*
 
-2. **[LangChain](https://github.com/langchain-ai/langchain)** <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="GitHub stars" /></a>  
+2. **[LangChain](https://github.com/langchain-ai/langchain)** <a href="https://github.com/langchain-ai/langchain/stargazers"><img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Framework for developing context-aware LLM agents that query employee skills databases, generate career coaching advice, and reason across talent graphs.*
 
-3. **[Grafana](https://github.com/grafana/grafana)** <a href="https://github.com/grafana/grafana/stargazers"><img src="https://img.shields.io/github/stars/grafana/grafana?style=social&color=white" alt="GitHub stars" /></a>  
+3. **[Grafana](https://github.com/grafana/grafana)** <a href="https://github.com/grafana/grafana/stargazers"><img src="https://img.shields.io/github/stars/grafana/grafana?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Open-source platform for monitoring, visualization, and workforce metrics/analytics dashboards.*
 
-4. **[Apache Superset](https://github.com/apache/superset)** <a href="https://github.com/apache/superset/stargazers"><img src="https://img.shields.io/github/stars/apache/superset?style=social&color=white" alt="GitHub stars" /></a>  
+4. **[Apache Superset](https://github.com/apache/superset)** <a href="https://github.com/apache/superset/stargazers"><img src="https://img.shields.io/github/stars/apache/superset?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Enterprise-grade business intelligence tool ideal for building organizational competency matrices, skill-gap heatmaps, and executive workforce dashboards.*
 
-5. **[Odoo Community Edition](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="GitHub stars" /></a>  
+5. **[Odoo Community Edition](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Extensible open-source ERP with integrated HR, recruitment, appraisal, and employee skill modules customizable for organizational competency mapping.*
 
-6. **[Metabase](https://github.com/metabase/metabase)** <a href="https://github.com/metabase/metabase/stargazers"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social&color=white" alt="GitHub stars" /></a>  
+6. **[Metabase](https://github.com/metabase/metabase)** <a href="https://github.com/metabase/metabase/stargazers"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Self-hosted business intelligence and data visualization suite for analyzing employee skill distributions, course completions, and internal hiring metrics.*
 
-7. **[Apache Airflow](https://github.com/apache/airflow)** <a href="https://github.com/apache/airflow/stargazers"><img src="https://img.shields.io/github/stars/apache/airflow?style=social&color=white" alt="GitHub stars" /></a>  
+7. **[Apache Airflow](https://github.com/apache/airflow)** <a href="https://github.com/apache/airflow/stargazers"><img src="https://img.shields.io/github/stars/apache/airflow?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Programmatic workflow orchestration platform for scheduling automated ETL pipelines that synchronize HRIS records, job postings, and external labor taxonomies.*
 
-8. **[Milvus](https://github.com/milvus-io/milvus)** <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="GitHub stars" /></a>  
+8. **[Milvus](https://github.com/milvus-io/milvus)** <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Cloud-native open-source vector database built for massive-scale semantic similarity search between employee skill vectors and job requisitions.*
 
-9. **[ERPNext](https://github.com/frappe/erpnext)** <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="GitHub stars" /></a>  
+9. **[ERPNext](https://github.com/frappe/erpnext)** <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="GitHub_Stars" /></a>  
    *Comprehensive open-source ERP system featuring built-in human resource modules for employee competencies, certification tracking, training programs, and performance.*
 
-10. **[Keycloak](https://github.com/keycloak/keycloak)** <a href="https://github.com/keycloak/keycloak/stargazers"><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="GitHub stars" /></a>  
+10. **[Keycloak](https://github.com/keycloak/keycloak)** <a href="https://github.com/keycloak/keycloak/stargazers"><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Open-source Identity and Access Management providing SSO, OAuth2, and granular role-based permissions to secure sensitive employee skills and appraisal data.*
 
-11. **[Qdrant](https://github.com/qdrant/qdrant)** <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="GitHub stars" /></a>  
+11. **[Qdrant](https://github.com/qdrant/qdrant)** <a href="https://github.com/qdrant/qdrant/stargazers"><img src="https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white" alt="GitHub_Stars" /></a>  
     *High-performance vector search engine written in Rust for semantic skill matching, candidate recommendation engines, and profile embeddings.*
 
-12. **[spaCy](https://github.com/explosion/spaCy)** <a href="https://github.com/explosion/spaCy/stargazers"><img src="https://img.shields.io/github/stars/explosion/spaCy?style=social&color=white" alt="GitHub stars" /></a>  
+12. **[spaCy](https://github.com/explosion/spaCy)** <a href="https://github.com/explosion/spaCy/stargazers"><img src="https://img.shields.io/github/stars/explosion/spaCy?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Industrial-strength NLP library in Python for building named entity recognition (NER) pipelines that extract skills, credentials, and job titles from CVs.*
 
-13. **[Chroma](https://github.com/chroma-core/chroma)** <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="GitHub stars" /></a>  
+13. **[Chroma](https://github.com/chroma-core/chroma)** <a href="https://github.com/chroma-core/chroma/stargazers"><img src="https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white" alt="GitHub_Stars" /></a>  
     *AI-native embedding database engineered for developer simplicity when indexing resumes, job postings, and competency vectors for semantic talent search.*
 
-14. **[MLflow](https://github.com/mlflow/mlflow)** <a href="https://github.com/mlflow/mlflow/stargazers"><img src="https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white" alt="GitHub stars" /></a>  
+14. **[MLflow](https://github.com/mlflow/mlflow)** <a href="https://github.com/mlflow/mlflow/stargazers"><img src="https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Open-source machine learning lifecycle platform for tracking, evaluating, and deploying skills classification and talent recommendation algorithms.*
 
-15. **[Haystack](https://github.com/deepset-ai/haystack)** <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="GitHub stars" /></a>  
+15. **[Haystack](https://github.com/deepset-ai/haystack)** <a href="https://github.com/deepset-ai/haystack/stargazers"><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white" alt="GitHub_Stars" /></a>  
     *End-to-end framework for building production-ready search and question-answering systems over corporate skill inventories and training documents.*
 
-16. **[Prefect](https://github.com/PrefectHQ/prefect)** <a href="https://github.com/PrefectHQ/prefect/stargazers"><img src="https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white" alt="GitHub stars" /></a>  
+16. **[Prefect](https://github.com/PrefectHQ/prefect)** <a href="https://github.com/PrefectHQ/prefect/stargazers"><img src="https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Modern data workflow orchestration platform for managing reactive pipelines that extract skills from updated CVs and refresh competency ontologies.*
 
-17. **[Sentence Transformers](https://github.com/UKPLab/sentence-transformers)** <a href="https://github.com/UKPLab/sentence-transformers/stargazers"><img src="https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social&color=white" alt="GitHub stars" /></a>  
+17. **[Sentence Transformers](https://github.com/UKPLab/sentence-transformers)** <a href="https://github.com/UKPLab/sentence-transformers/stargazers"><img src="https://img.shields.io/github/stars/UKPLab/sentence-transformers?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Python framework for state-of-the-art sentence, text, and image embeddings—essential for semantic distance matching between employee skills and job requisitions.*
 
-18. **[Neo4j Community Edition](https://github.com/neo4j/neo4j)** <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="GitHub stars" /></a>  
+18. **[Neo4j Community Edition](https://github.com/neo4j/neo4j)** <a href="https://github.com/neo4j/neo4j/stargazers"><img src="https://img.shields.io/github/stars/neo4j/neo4j?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Graph database technology ideal for representing multi-dimensional knowledge graphs connecting people, competencies, certifications, roles, and mentors.*
 
-19. **[Flair](https://github.com/flairNLP/flair)** <a href="https://github.com/flairNLP/flair/stargazers"><img src="https://img.shields.io/github/stars/flairNLP/flair?style=social&color=white" alt="GitHub stars" /></a>  
+19. **[Flair](https://github.com/flairNLP/flair)** <a href="https://github.com/flairNLP/flair/stargazers"><img src="https://img.shields.io/github/stars/flairNLP/flair?style=social&color=white" alt="GitHub_Stars" /></a>  
     *State-of-the-art NLP library for contextual string embeddings and Named Entity Recognition used in parsing complex, multi-word skill phrases.*
 
-20. **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="GitHub stars" /></a>  
+20. **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** <a href="https://github.com/opensearch-project/OpenSearch/stargazers"><img src="https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Scalable search and analytics suite offering hybrid lexical and k-NN vector search across employee profiles, project portfolios, and skills catalogs.*
 
-21. **[Frappe HR](https://github.com/frappe/hrms)** <a href="https://github.com/frappe/hrms/stargazers"><img src="https://img.shields.io/github/stars/frappe/hrms?style=social&color=white" alt="GitHub stars" /></a>  
+21. **[Frappe HR](https://github.com/frappe/hrms)** <a href="https://github.com/frappe/hrms/stargazers"><img src="https://img.shields.io/github/stars/frappe/hrms?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Modern open-source HR and payroll platform with employee profiles, training management, appraisals, and customizable skill matrices.*
 
-22. **[Open edX Platform](https://github.com/openedx/edx-platform)** <a href="https://github.com/openedx/edx-platform/stargazers"><img src="https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white" alt="GitHub stars" /></a>  
+22. **[Open edX Platform](https://github.com/openedx/edx-platform)** <a href="https://github.com/openedx/edx-platform/stargazers"><img src="https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Enterprise-grade learning platform supporting competency-based course delivery, student progress tracking, and verifiable learning assessments.*
 
-23. **[BERTopic](https://github.com/MaartenGr/BERTopic)** <a href="https://github.com/MaartenGr/BERTopic/stargazers"><img src="https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social&color=white" alt="GitHub stars" /></a>  
+23. **[BERTopic](https://github.com/MaartenGr/BERTopic)** <a href="https://github.com/MaartenGr/BERTopic/stargazers"><img src="https://img.shields.io/github/stars/MaartenGr/BERTopic?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Transformer-based topic modeling technique to discover and cluster emerging technologies and trending skills from unstructured job advertisements.*
 
-24. **[Moodle](https://github.com/moodle/moodle)** <a href="https://github.com/moodle/moodle/stargazers"><img src="https://img.shields.io/github/stars/moodle/moodle?style=social&color=white" alt="GitHub stars" /></a>  
+24. **[Moodle](https://github.com/moodle/moodle)** <a href="https://github.com/moodle/moodle/stargazers"><img src="https://img.shields.io/github/stars/moodle/moodle?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Leading open-source learning management system with full support for competency frameworks, learning plans, evidence validation, and skill badges.*
 
-25. **[Canvas LMS](https://github.com/instructure/canvas-lms)** <a href="https://github.com/instructure/canvas-lms/stargazers"><img src="https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white" alt="GitHub stars" /></a>  
+25. **[Canvas LMS](https://github.com/instructure/canvas-lms)** <a href="https://github.com/instructure/canvas-lms/stargazers"><img src="https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Popular LMS supporting learning outcomes, rubric-based grading, mastery calculations, and modular credentials.*
 
-26. **[Apache AGE](https://github.com/apache/age)** <a href="https://github.com/apache/age/stargazers"><img src="https://img.shields.io/github/stars/apache/age?style=social&color=white" alt="GitHub stars" /></a>  
+26. **[Apache AGE](https://github.com/apache/age)** <a href="https://github.com/apache/age/stargazers"><img src="https://img.shields.io/github/stars/apache/age?style=social&color=white" alt="GitHub_Stars" /></a>  
     *PostgreSQL graph extension allowing organizations to query complex skills networks using openCypher directly alongside relational employee tables.*
 
-27. **[RapidFuzz](https://github.com/maxbachmann/RapidFuzz)** <a href="https://github.com/maxbachmann/RapidFuzz/stargazers"><img src="https://img.shields.io/github/stars/maxbachmann/RapidFuzz?style=social&color=white" alt="GitHub stars" /></a>  
+27. **[RapidFuzz](https://github.com/maxbachmann/RapidFuzz)** <a href="https://github.com/maxbachmann/RapidFuzz/stargazers"><img src="https://img.shields.io/github/stars/maxbachmann/RapidFuzz?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Ultra-fast fuzzy string matching library in C++ and Python for deduplicating and normalizing variations in skill names and certifications.*
 
-28. **[OrangeHRM Open Source](https://github.com/orangehrm/orangehrm)** <a href="https://github.com/orangehrm/orangehrm/stargazers"><img src="https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white" alt="GitHub stars" /></a>  
+28. **[OrangeHRM Open Source](https://github.com/orangehrm/orangehrm)** <a href="https://github.com/orangehrm/orangehrm/stargazers"><img src="https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Widely adopted open-source human resource management application supporting employee records, certifications, and talent evaluation workflows.*
 
-29. **[PyResparser](https://github.com/OmkarPathak/pyresparser)** <a href="https://github.com/OmkarPathak/pyresparser/stargazers"><img src="https://img.shields.io/github/stars/OmkarPathak/pyresparser?style=social&color=white" alt="GitHub stars" /></a>  
+29. **[PyResparser](https://github.com/OmkarPathak/pyresparser)** <a href="https://github.com/OmkarPathak/pyresparser/stargazers"><img src="https://img.shields.io/github/stars/OmkarPathak/pyresparser?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Python library for parsing resumes and CVs to automatically extract skills, education history, and experience tokens.*
 
-30. **[OCA HR Modules](https://github.com/OCA/hr)** <a href="https://github.com/OCA/hr/stargazers"><img src="https://img.shields.io/github/stars/OCA/hr?style=social&color=white" alt="GitHub stars" /></a>  
+30. **[OCA HR Modules](https://github.com/OCA/hr)** <a href="https://github.com/OCA/hr/stargazers"><img src="https://img.shields.io/github/stars/OCA/hr?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Community-maintained Odoo extensions providing advanced employee appraisals, training management, and skills matrix views.*
 
-31. **[Skills-ML](https://github.com/workforce-data-initiative/skills-ml)** <a href="https://github.com/workforce-data-initiative/skills-ml/stargazers"><img src="https://img.shields.io/github/stars/workforce-data-initiative/skills-ml?style=social&color=white" alt="GitHub stars" /></a>  
+31. **[Skills-ML](https://github.com/workforce-data-initiative/skills-ml)** <a href="https://github.com/workforce-data-initiative/skills-ml/stargazers"><img src="https://img.shields.io/github/stars/workforce-data-initiative/skills-ml?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Open-source machine learning library designed for analyzing skills, competencies, and occupations in labor-market datasets.*
 
-32. **[OpenHRMS](https://github.com/CybroOdoo/OpenHRMS)** <a href="https://github.com/CybroOdoo/OpenHRMS/stargazers"><img src="https://img.shields.io/github/stars/CybroOdoo/OpenHRMS?style=social&color=white" alt="GitHub stars" /></a>  
+32. **[OpenHRMS](https://github.com/CybroOdoo/OpenHRMS)** <a href="https://github.com/CybroOdoo/OpenHRMS/stargazers"><img src="https://img.shields.io/github/stars/CybroOdoo/OpenHRMS?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Open-source human resource management suite providing modular employee skill tracking, onboarding, and performance evaluations.*
 
-33. **[Nesta Skills Extractor Library](https://github.com/nestauk/ojd_daps_skills)** <a href="https://github.com/nestauk/ojd_daps_skills/stargazers"><img src="https://img.shields.io/github/stars/nestauk/ojd_daps_skills?style=social&color=white" alt="GitHub stars" /></a>  
+33. **[Nesta Skills Extractor Library](https://github.com/nestauk/ojd_daps_skills)** <a href="https://github.com/nestauk/ojd_daps_skills/stargazers"><img src="https://img.shields.io/github/stars/nestauk/ojd_daps_skills?style=social&color=white" alt="GitHub_Stars" /></a>  
     *NLP library developed by Nesta to extract skill entities from free-text job adverts and map them against the European ESCO taxonomy.*
 
-34. **[Mahara ePortfolio](https://github.com/MaharaProject/mahara)** <a href="https://github.com/MaharaProject/mahara/stargazers"><img src="https://img.shields.io/github/stars/MaharaProject/mahara?style=social&color=white" alt="GitHub stars" /></a>  
+34. **[Mahara ePortfolio](https://github.com/MaharaProject/mahara)** <a href="https://github.com/MaharaProject/mahara/stargazers"><img src="https://img.shields.io/github/stars/MaharaProject/mahara?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Open-source digital portfolio and competency framework system for employees and learners to collect and showcase validated evidence of mastery.*
 
-35. **[Nesta Skills Taxonomy v2](https://github.com/nestauk/skills-taxonomy-v2)** <a href="https://github.com/nestauk/skills-taxonomy-v2/stargazers"><img src="https://img.shields.io/github/stars/nestauk/skills-taxonomy-v2?style=social&color=white" alt="GitHub stars" /></a>  
+35. **[Nesta Skills Taxonomy v2](https://github.com/nestauk/skills-taxonomy-v2)** <a href="https://github.com/nestauk/skills-taxonomy-v2/stargazers"><img src="https://img.shields.io/github/stars/nestauk/skills-taxonomy-v2?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Data-driven skills taxonomy codebase and analysis framework built from millions of online job adverts.*
 
-36. **[Open Skills API](https://github.com/workforce-data-initiative/open-skills-api)** <a href="https://github.com/workforce-data-initiative/open-skills-api/stargazers"><img src="https://img.shields.io/github/stars/workforce-data-initiative/open-skills-api?style=social&color=white" alt="GitHub stars" /></a>  
+36. **[Open Skills API](https://github.com/workforce-data-initiative/open-skills-api)** <a href="https://github.com/workforce-data-initiative/open-skills-api/stargazers"><img src="https://img.shields.io/github/stars/workforce-data-initiative/open-skills-api?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Standardized REST API and data store for querying relationships between skills, tools, knowledge areas, and occupations.*
 
-37. **[ESCO Skill Extractor](https://github.com/k-paxian/esco-skill-extractor)** <a href="https://github.com/k-paxian/esco-skill-extractor/stargazers"><img src="https://img.shields.io/github/stars/k-paxian/esco-skill-extractor?style=social&color=white" alt="GitHub stars" /></a>  
+37. **[ESCO Skill Extractor](https://github.com/k-paxian/esco-skill-extractor)** <a href="https://github.com/k-paxian/esco-skill-extractor/stargazers"><img src="https://img.shields.io/github/stars/k-paxian/esco-skill-extractor?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Python library that maps unstructured job descriptions and profiles to European ESCO skills using semantic similarity.*
 
-38. **[PuzzleSkills](https://github.com/puzzle/skills)** <a href="https://github.com/puzzle/skills/stargazers"><img src="https://img.shields.io/github/stars/puzzle/skills?style=social&color=white" alt="GitHub stars" /></a>  
+38. **[PuzzleSkills](https://github.com/puzzle/skills)** <a href="https://github.com/puzzle/skills/stargazers"><img src="https://img.shields.io/github/stars/puzzle/skills?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Open-source web application for tracking employee skills, CV generation, and team capability overviews.*
 
-39. **[Core-O Competence Ontology](https://github.com/jpalmeida/competence-ontology)** <a href="https://github.com/jpalmeida/competence-ontology/stargazers"><img src="https://img.shields.io/github/stars/jpalmeida/competence-ontology?style=social&color=white" alt="GitHub stars" /></a>  
+39. **[Core-O Competence Ontology](https://github.com/jpalmeida/competence-ontology)** <a href="https://github.com/jpalmeida/competence-ontology/stargazers"><img src="https://img.shields.io/github/stars/jpalmeida/competence-ontology?style=social&color=white" alt="GitHub_Stars" /></a>  
     *Reference ontology for modeling human competences, occupational requirements, proficiency grades, and skills evolution over time.*
 
 ---
@@ -239,7 +239,7 @@ Contributions are warmly welcomed! To suggest a new SaaS platform, open-source r
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-skill-platform`
 3. 📝 **Add your entry** in the corresponding section following the existing format:
    - For SaaS: Include name, company size/valuation, description, specific starting pricing tier, and free trial limit.
-   - For Open-Source: Include name, official repository link with stargazers badge `<a href="https://github.com/owner/repo/stargazers"><img src="https://img.shields.io/github/stars/owner/repo?style=social&color=white" alt="GitHub stars" /></a>`, and a factual 1–2 sentence description.
+   - For Open-Source: Include name, official repository link with stargazers badge `<a href="https://github.com/owner/repo/stargazers"><img src="https://img.shields.io/github/stars/owner/repo?style=social&color=white" alt="GitHub_Stars" /></a>`, and a factual 1–2 sentence description.
 4. 🚀 **Submit a Pull Request** with a concise description of why the tool is valuable.
 5. ⭐ **Star this repository** if you find it helpful for your workforce and skills management projects!
 
